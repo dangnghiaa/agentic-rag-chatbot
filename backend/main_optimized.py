@@ -144,24 +144,9 @@ def generate(state):
     ctx = "\n\n".join(state["context"])
     q = state["question"]
 
-    prompt = f"""
-Bạn là trợ lý tư vấn luật giao thông Việt Nam.
-
-QUY TẮC BẮT BUỘC:
-Yêu cầu bắt buộc:
-- Chỉ trả lời KẾT LUẬN CUỐI CÙNG
-- Không giải thích, không so sánh, không liệt kê quá trình
-- Không dùng các cụm như: "so sánh", "dựa trên", "xem xét", "quá trình"
-- Văn phong tự nhiên, giống người thật tư vấn
-- Nếu hỏi mức cao nhất / thấp nhất: chỉ nêu 1 mức tương ứng
 
 
-
-Câu hỏi:
-{q}
-"""
-
-    answer = generate_answer(prompt, ctx)
+    answer = generate_answer(q, ctx)
 
     log("GENERATE", "done")
 
