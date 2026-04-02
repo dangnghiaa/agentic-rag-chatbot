@@ -1,0 +1,17 @@
+LỖI: THỰC HIỆN HÀNH VI NGUY HIỂM KHI ĐIỀU KHIỂN PHƯƠNG TIỆN
+
+(lạng lách, đánh võng; buông hai tay; chạy một bánh; quẹt chân chống; chạy thành nhóm gây nguy hiểm hoặc chạy quá tốc độ)
+
+--- XE MÔ TÔ, XE GẮN MÁY (bao gồm xe máy điện) ---
+
+Mã lỗi: XM_HVNH_1
+Mức phạt: 6.000.000 – 8.000.000 VNĐ
+Biện pháp khắc phục: Tước GPLX 02 – 04 tháng; Trừ 10 điểm GPLX
+Điều luật: Khoản 9 Điều 7 Nghị định 168/2024/NĐ-CP
+
+--- Ô TÔ (bao gồm ô tô con, xe tải, xe khách, xe container, xe đầu kéo và các loại xe tương tự ô tô) ---
+
+Mã lỗi: OT_HVNH_1
+Mức phạt: 20.000.000 – 22.000.000 VNĐ
+Biện pháp khắc phục: Tước GPLX 02 – 04 tháng; Trừ 10 điểm GPLX
+Điều luật: Khoản 8 Điều 6 Nghị định 168/2024/NĐ-CP

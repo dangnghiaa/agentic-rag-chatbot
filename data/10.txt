@@ -1,0 +1,14 @@
+LỖI: KHÔNG CÓ BẢO HIỂM TRÁCH NHIỆM DÂN SỰ
+--- XE MÔ TÔ, XE GẮN MÁY ---
+
+Mã lỗi: XM_BH_1
+Mức phạt: 100.000 – 200.000 VNĐ
+Biện pháp khắc phục: Không áp dụng
+Điều luật: Khoản 1 Điều 7 Nghị định 168/2024/NĐ-CP
+
+--- Ô TÔ (bao gồm ô tô con, xe tải, xe khách, container…) ---
+
+Mã lỗi: OT_BH_1
+Mức phạt: 400.000 – 600.000 VNĐ
+Biện pháp khắc phục: Không áp dụng
+Điều luật: Khoản 2 Điều 6 Nghị định 168/2024/NĐ-CP

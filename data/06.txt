@@ -1,0 +1,35 @@
+LỖI: KHÔNG CHẤP HÀNH HIỆU LỆNH CỦA NGƯỜI ĐIỀU KHIỂN GIAO THÔNG
+--- XE MÔ TÔ, XE GẮN MÁY ---
+
+Mã lỗi: XM_HL_1
+Mức phạt: 4.000.000 – 6.000.000 VNĐ
+Biện pháp khắc phục: Trừ 06 điểm GPLX
+Điều luật: Khoản 7 Điều 7 Nghị định 168/2024/NĐ-CP
+
+--- Ô TÔ (bao gồm ô tô con, xe tải, xe khách, container và các loại xe tương tự ô tô) ---
+
+Mã lỗi: OT_HL_1
+Mức phạt: 18.000.000 – 20.000.000 VNĐ
+Biện pháp khắc phục: Trừ 06 điểm GPLX
+Điều luật: Khoản 8 Điều 6 Nghị định 168/2024/NĐ-CP
+
+--- XE MÁY CHUYÊN DÙNG ---
+
+Mã lỗi: XCD_HL_1
+Mức phạt: 3.000.000 – 5.000.000 VNĐ
+Biện pháp khắc phục: Trừ điểm GPLX
+Điều luật: Khoản 4 Điều 8 Nghị định 168/2024/NĐ-CP
+
+--- XE THÔ SƠ ---
+
+Mã lỗi: XTS_HL_1
+Mức phạt: 200.000 – 300.000 VNĐ
+Biện pháp khắc phục: Không áp dụng
+Điều luật: Khoản 2 Điều 9 Nghị định 168/2024/NĐ-CP
+
+--- XE ĐẠP, XE ĐẠP ĐIỆN ---
+
+Mã lỗi: XD_HL_1
+Mức phạt: 200.000 – 300.000 VNĐ
+Biện pháp khắc phục: Không áp dụng
+Điều luật: Khoản 2 Điều 9 Nghị định 168/2024/NĐ-CP

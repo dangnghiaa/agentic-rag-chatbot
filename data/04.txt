@@ -1,0 +1,21 @@
+LỖI: CHỞ HÀNG QUÁ TẢI TRỌNG, QUÁ KHỔ GIỚI HẠN CHO PHÉP
+--- XE MÔ TÔ, XE GẮN MÁY (bao gồm xe máy điện) ---
+
+Mã lỗi: XM_QTQK_1
+Mức phạt: 400.000 – 600.000 VNĐ
+Biện pháp khắc phục: Buộc hạ phần hàng vượt quá quy định
+Điều luật: Khoản 3 Điều 7 Nghị định 168/2024/NĐ-CP
+
+--- Ô TÔ (bao gồm ô tô con, xe tải, xe khách, xe container, xe đầu kéo và các loại xe tương tự ô tô) ---
+
+Mã lỗi: OT_QTQK_1
+Mức phạt: 6.000.000 – 8.000.000 VNĐ
+Biện pháp khắc phục: Buộc hạ phần hàng vượt quá; có thể tạm giữ phương tiện
+Điều luật: Khoản 6 Điều 6 Nghị định 168/2024/NĐ-CP
+
+--- XE MÁY CHUYÊN DÙNG (máy kéo, xe công trình, xe nông nghiệp tham gia giao thông) ---
+
+Mã lỗi: XCD_QTQK_1
+Mức phạt: 4.000.000 – 6.000.000 VNĐ
+Biện pháp khắc phục: Buộc hạ phần hàng vượt quá
+Điều luật: Khoản 4 Điều 8 Nghị định 168/2024/NĐ-CP

@@ -1,0 +1,14 @@
+LỖI: KHÔNG ĐỘI MŨ BẢO HIỂM KHI ĐI MÔ TÔ, XE GẮN MÁY
+--- XE MÔ TÔ, XE GẮN MÁY (bao gồm xe máy điện) ---
+
+Mã lỗi: XM_MBH_1
+Mức phạt: 400.000 – 600.000 VNĐ
+Biện pháp khắc phục: Không áp dụng
+Điều luật: Khoản 2 Điều 7 Nghị định 168/2024/NĐ-CP
+
+--- NGƯỜI ĐƯỢC CHỞ TRÊN XE MÔ TÔ, XE GẮN MÁY KHÔNG ĐỘI MŨ BẢO HIỂM ---
+
+Mã lỗi: NDC_MBH_1
+Mức phạt: 400.000 – 600.000 VNĐ
+Biện pháp khắc phục: Không áp dụng
+Điều luật: Khoản 2 Điều 7 Nghị định 168/2024/NĐ-CP

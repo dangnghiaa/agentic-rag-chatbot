@@ -1,0 +1,35 @@
+LỖI: DỪNG XE, ĐỖ XE KHÔNG ĐÚNG QUY ĐỊNH
+--- XE MÔ TÔ, XE GẮN MÁY ---
+
+Mã lỗi: XM_DD_1
+Mức phạt: 400.000 – 600.000 VNĐ
+Biện pháp khắc phục: Không áp dụng
+Điều luật: Khoản 2 Điều 7 Nghị định 168/2024/NĐ-CP
+
+--- Ô TÔ (bao gồm ô tô con, xe tải, xe khách, container và các loại xe tương tự ô tô) ---
+
+Mã lỗi: OT_DD_1
+Mức phạt: 2.000.000 – 3.000.000 VNĐ
+Biện pháp khắc phục: Không áp dụng
+Điều luật: Khoản 3 Điều 6 Nghị định 168/2024/NĐ-CP
+
+--- XE MÁY CHUYÊN DÙNG ---
+
+Mã lỗi: XCD_DD_1
+Mức phạt: 1.000.000 – 2.000.000 VNĐ
+Biện pháp khắc phục: Không áp dụng
+Điều luật: Khoản 2 Điều 8 Nghị định 168/2024/NĐ-CP
+
+--- XE THÔ SƠ ---
+
+Mã lỗi: XTS_DD_1
+Mức phạt: 100.000 – 200.000 VNĐ
+Biện pháp khắc phục: Không áp dụng
+Điều luật: Khoản 1 Điều 9 Nghị định 168/2024/NĐ-CP
+
+--- XE ĐẠP, XE ĐẠP ĐIỆN ---
+
+Mã lỗi: XD_DD_1
+Mức phạt: 100.000 – 200.000 VNĐ
+Biện pháp khắc phục: Không áp dụng
+Điều luật: Khoản 1 Điều 9 Nghị định 168/2024/NĐ-CP

@@ -1,0 +1,22 @@
+LỖI: KHÔNG CÓ GIẤY PHÉP LÁI XE
+
+--- XE MÔ TÔ, XE GẮN MÁY ---
+
+Mã lỗi: XM_GPLX_1
+Mức phạt: 4.000.000 – 6.000.000 VNĐ
+Biện pháp khắc phục: Tạm giữ phương tiện
+Điều luật: Khoản 5 Điều 7 Nghị định 168/2024/NĐ-CP
+
+--- Ô TÔ (bao gồm ô tô con, xe tải, xe khách, container…) ---
+
+Mã lỗi: OT_GPLX_1
+Mức phạt: 18.000.000 – 20.000.000 VNĐ
+Biện pháp khắc phục: Tạm giữ phương tiện
+Điều luật: Khoản 9 Điều 6 Nghị định 168/2024/NĐ-CP
+
+--- XE MÁY CHUYÊN DÙNG ---
+
+Mã lỗi: XCD_GPLX_1
+Mức phạt: 4.000.000 – 6.000.000 VNĐ
+Biện pháp khắc phục: Tạm giữ phương tiện
+Điều luật: Khoản 4 Điều 8 Nghị định 168/2024/NĐ-CP

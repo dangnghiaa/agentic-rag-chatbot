@@ -1,0 +1,21 @@
+LỖI: SỬ DỤNG ĐIỆN THOẠI DI ĐỘNG KHI ĐIỀU KHIỂN PHƯƠNG TIỆN
+--- XE MÔ TÔ, XE GẮN MÁY (bao gồm xe máy điện) ---
+
+Mã lỗi: XM_DTDD_1
+Mức phạt: 1.000.000 – 2.000.000 VNĐ
+Biện pháp khắc phục: Trừ 04 điểm GPLX
+Điều luật: Khoản 5 Điều 7 Nghị định 168/2024/NĐ-CP
+
+--- Ô TÔ (bao gồm ô tô con, xe tải, xe khách, xe container, xe đầu kéo và các loại xe tương tự ô tô) ---
+
+Mã lỗi: OT_DTDD_1
+Mức phạt: 4.000.000 – 6.000.000 VNĐ
+Biện pháp khắc phục: Trừ 04 điểm GPLX
+Điều luật: Khoản 6 Điều 6 Nghị định 168/2024/NĐ-CP
+
+--- XE MÁY CHUYÊN DÙNG (máy kéo, xe công trình, xe nông nghiệp tham gia giao thông) ---
+
+Mã lỗi: XCD_DTDD_1
+Mức phạt: 2.000.000 – 3.000.000 VNĐ
+Biện pháp khắc phục: Trừ điểm GPLX
+Điều luật: Khoản 3 Điều 8 Nghị định 168/2024/NĐ-CP

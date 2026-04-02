@@ -1,0 +1,35 @@
+LỖI: ĐI NGƯỢC CHIỀU CỦA ĐƯỜNG MỘT CHIỀU, ĐƯỜNG CÓ BIỂN CẤM
+--- XE MÔ TÔ, XE GẮN MÁY (bao gồm xe máy điện) ---
+
+Mã lỗi: XM_NCH_1
+Mức phạt: 1.000.000 – 2.000.000 VNĐ
+Biện pháp khắc phục: Trừ 04 điểm GPLX
+Điều luật: Điểm b Khoản 5 Điều 7 Nghị định 168/2024/NĐ-CP
+
+--- Ô TÔ (bao gồm ô tô con, xe tải, xe khách, container và các loại xe tương tự ô tô) ---
+
+Mã lỗi: OT_NCH_1
+Mức phạt: 4.000.000 – 6.000.000 VNĐ
+Biện pháp khắc phục: Trừ 04 điểm GPLX
+Điều luật: Điểm b Khoản 5 Điều 6 Nghị định 168/2024/NĐ-CP
+
+--- XE ĐẠP, XE ĐẠP ĐIỆN ---
+
+Mã lỗi: XD_NCH_1
+Mức phạt: 100.000 – 200.000 VNĐ
+Biện pháp khắc phục: Không áp dụng
+Điều luật: Khoản 1 Điều 9 Nghị định 168/2024/NĐ-CP
+
+--- XE THÔ SƠ ---
+
+Mã lỗi: XTS_NCH_1
+Mức phạt: 100.000 – 200.000 VNĐ
+Biện pháp khắc phục: Không áp dụng
+Điều luật: Khoản 1 Điều 9 Nghị định 168/2024/NĐ-CP
+
+--- XE MÁY CHUYÊN DÙNG ---
+
+Mã lỗi: XCD_NCH_1
+Mức phạt: 2.000.000 – 3.000.000 VNĐ
+Biện pháp khắc phục: Trừ điểm GPLX
+Điều luật: Khoản 3 Điều 8 Nghị định 168/2024/NĐ-CP

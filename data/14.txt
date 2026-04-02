@@ -1,0 +1,7 @@
+LỖI: KHÔNG THẮT DÂY AN TOÀN KHI ĐIỀU KHIỂN Ô TÔ
+--- Ô TÔ (bao gồm ô tô con, xe tải, xe khách, xe container, xe đầu kéo và các loại xe tương tự ô tô) ---
+
+Mã lỗi: OT_DA_1
+Mức phạt: 800.000 – 1.000.000 VNĐ
+Biện pháp khắc phục: Không áp dụng
+Điều luật: Khoản 3 Điều 6 Nghị định 168/2024/NĐ-CP

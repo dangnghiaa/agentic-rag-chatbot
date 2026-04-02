@@ -1,0 +1,49 @@
+LỖI: KHÔNG CHẤP HÀNH TÍN HIỆU ĐÈN GIAO THÔNG (VƯỢT ĐÈN ĐỎ)
+--- XE MÔ TÔ, XE GẮN MÁY (bao gồm xe máy điện) ---
+
+Mã lỗi: XM_DEN_DO_1
+Mức phạt: 800.000 – 1.000.000 VNĐ
+Biện pháp khắc phục: Trừ 04 điểm GPLX
+Điều luật: Điểm c Khoản 4 Điều 7 Nghị định 168/2024/NĐ-CP
+
+--- Ô TÔ (bao gồm ô tô con, xe tải, xe khách, xe container, xe đầu kéo và các loại xe tương tự ô tô) ---
+
+Mã lỗi: OT_DEN_DO_1
+Mức phạt: 4.000.000 – 6.000.000 VNĐ
+Biện pháp khắc phục: Trừ 04 điểm GPLX
+Điều luật: Điểm c Khoản 5 Điều 6 Nghị định 168/2024/NĐ-CP
+
+--- Ô TÔ (bao gồm ô tô con, xe tải, xe khách, xe container, xe đầu kéo…) gây tai nạn giao thông ---
+
+Mã lỗi: OT_DEN_DO_2
+Mức phạt: 20.000.000 – 22.000.000 VNĐ
+Biện pháp khắc phục: Trừ 10 điểm GPLX; Tước GPLX 02–04 tháng
+Điều luật: Khoản 8 Điều 6 Nghị định 168/2024/NĐ-CP
+
+--- XE ĐẠP, XE ĐẠP ĐIỆN ---
+
+Mã lỗi: XD_DEN_DO_1
+Mức phạt: 100.000 – 200.000 VNĐ
+Biện pháp khắc phục: Không áp dụng
+Điều luật: Khoản 1 Điều 9 Nghị định 168/2024/NĐ-CP
+
+--- XE THÔ SƠ (bao gồm xích lô, xe súc vật kéo và các loại xe thô sơ khác) ---
+
+Mã lỗi: XTS_DEN_DO_1
+Mức phạt: 100.000 – 200.000 VNĐ
+Biện pháp khắc phục: Không áp dụng
+Điều luật: Khoản 1 Điều 9 Nghị định 168/2024/NĐ-CP
+
+--- XE MÁY CHUYÊN DÙNG (bao gồm máy kéo, xe công trình, xe nông nghiệp tham gia giao thông) ---
+
+Mã lỗi: XCD_DEN_DO_1
+Mức phạt: 2.000.000 – 3.000.000 VNĐ
+Biện pháp khắc phục: Trừ điểm GPLX; Tạm giữ phương tiện
+Điều luật: Khoản 3 Điều 8 Nghị định 168/2024/NĐ-CP
+
+--- NGƯỜI ĐI BỘ ---
+
+Mã lỗi: NDB_DEN_DO_1
+Mức phạt: 100.000 – 200.000 VNĐ
+Biện pháp khắc phục: Không áp dụng
+Điều luật: Khoản 1 Điều 10 Nghị định 168/2024/NĐ-CP

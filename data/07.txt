@@ -1,0 +1,22 @@
+LỖI: KHÔNG NHƯỜNG ĐƯỜNG CHO XE ƯU TIÊN THEO QUY ĐỊNH
+--- XE MÔ TÔ, XE GẮN MÁY ---
+
+Mã lỗi: XM_ND_1
+Mức phạt: 800.000 – 1.000.000 VNĐ
+Biện pháp khắc phục: Trừ 02 điểm GPLX
+Điều luật: Khoản 4 Điều 7 Nghị định 168/2024/NĐ-CP
+
+--- Ô TÔ (bao gồm ô tô con, xe tải, xe khách, container và các loại xe tương tự ô tô) ---
+
+Mã lỗi: OT_ND_1
+Mức phạt: 4.000.000 – 6.000.000 VNĐ
+Biện pháp khắc phục: Trừ 02 điểm GPLX
+Điều luật: Khoản 5 Điều 6 Nghị định 168/2024/NĐ-CP
+
+--- XE MÁY CHUYÊN DÙNG ---
+
+Mã lỗi: XCD_ND_1
+Mức phạt: 2.000.000 – 3.000.000 VNĐ
+Biện pháp khắc phục: Trừ điểm GPLX
+Điều luật: Khoản 3 Điều 8 Nghị định 168/2024/NĐ-CP
+
